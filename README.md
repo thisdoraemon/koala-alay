@@ -6,7 +6,7 @@ I specialize in backend development, crafting engaging projects, and relishing t
 
 I primarily focus on Go for backend development, boasting experience in containerization with Docker for nearly a year. Additionally, I use Fedora as my daily driver.
 
-## 🌎 Find me
+## 🌎 Find Me
 
 [LinkedIn](https://www.linkedin.com/in/ezrantn/)
 
