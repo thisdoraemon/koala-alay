@@ -10,6 +10,6 @@ My primary coding languages are Go and TypeScript, but I'm also familiar with ot
 
 You can find me on:
 
-- [Instagram](https://www.instagram.com/ezrantn10/)
+- [Instagram](https://www.instagram.com/ezntn/)
 - [LinkedIn](https://www.linkedin.com/in/ezrantn/)
 - [Twitter](https://x.com/EzraNatanael6)
