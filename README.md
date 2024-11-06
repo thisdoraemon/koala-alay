@@ -2,10 +2,16 @@
 
 I'm a Software Engineer from Indonesia. 🇮🇩
 
-I build APIs and open-source tools like [@gopiah](https://github.com/ezrantn/gopiah) and [@tweetify](https://github.com/ezrantn/tweetify).
+I create APIs and open-source tools like [@gopiah](https://github.com/ezrantn/gopiah) and [@tweetify](https://github.com/ezrantn/tweetify).
 
-I'm currently working on [@steganogo](https://github.com/ezrantn/steganogo) a web based Steganography. 🖼️
+Currently, I'm working on:
+- [@steg](https://github.com/ezrantn/steg) a CLI Steganography tool
+- [@ranko](https://github.com/ezrantn/ranko) a mini search engine 🔍
 
-My primary coding language is Go, but I'm also familiar with other languages. 👨‍💻
+My primary coding language is Go, but I also work with other languages. 👨‍💻
 
-You can find me on [LinkedIn](https://www.linkedin.com/in/ezrantn/)!
+You can find me on:
+
+- [Personal Website](https://ezrantn.github.io/)
+- [LinkedIn](https://www.linkedin.com/in/ezrantn/)
+- [Twitter](https://x.com/EzraNatanael6)
